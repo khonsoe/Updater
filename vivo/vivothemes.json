@@ -1,7 +1,7 @@
 {
-    "title" : "New Version 1.0.0",
-    "message" : "- New Themes",
-    "versionCode" : 1,
+    "title" : "New Version 1.3",
+    "message" : "-Add New Themes",
+    "versionCode" : 3,
     "force" : false,
     "link" : ""
 }
