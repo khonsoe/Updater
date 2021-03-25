@@ -3,5 +3,5 @@
     "message" : "- New Themes",
     "versionCode" : 16,
     "force" : false,
-    "update" : ""
+    "update" : "https://github.com/khonsoe/Updater/raw/main/vivo/app-release.apk"
 }
