@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<vivo_theme_values>
+<color name="vivo_switcher_text_light">#FFFC7C4E</color>
+<color name="vivo_statusbar_expended_text_color">#FFE4B682</color>
+<color name="btn_statusbar_shield_press_text_color">#80E4B682</color>
+  <color name="btn_statusbar_clean_press_text_color">#80E4B682</color>
+<color name="btn_statusbar_shield_normal_text_color">#FFE4B682</color>
+  <color name="btn_statusbar_clean_normal_text_color">#FFE4B682</color>
+<color name="vivo_upslide_background">#FF384C70</color>
+<color name="vivo_upslide_divider_background">#80E4B682</color>
+<color name="vivo_upslide_switcher_order_background">#FF384C70</color>
+<color name="vivo_upslide_switcher_order_area_background">#FF32486E</color>
+
+<color name="vivo_upslide_shortcut_controller">#FFE4B682</color>
+<color name="vivo_upslide_setting_title">#FFE4B682</color>
+<color name="app_name">#FFE4B682</color>
+<color name="vivo_upslide_switcher_text_color_light">#FFFC7C4E</color>
+<color name="color_internet_center_light">#FFFC7C4E</color>
+<color name="vivo_upslide_switcher_text_color_dark">#FFE4B682</color>
+<color name="vivo_upslide_switcher_text_color_light_joviost">#FFFC7C4E</color>
+<color name="vivo_upslide_switcher_text_color_dark_jovios">#FFE4B682</color>
+<color name="vivo_upslide_switcher_text_color_light_iqoot">#FFFC7C4E</color>
+<color name="vivo_upslide_switcher_text_color_dark_iqoos">#FFE4B682</color>
+<color name="vivo_heads_up_notification_stroke_color">#FF596CD5</color>
+<color name="vivo_heads_up_notification_background">#FF596CD5</color>
+<color name="vivo_notification_background_color">#FF596CD5</color>
+<color name="vivo_notification_background_color_dim">#FF596CD5</color>
+<color name="vivo_panel_floor_cover_color">#FF3C53A7</color>
+</vivo_theme_values>
